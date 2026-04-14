@@ -1,4 +1,0 @@
-First line 
-second line
-third line 
-Hello world
