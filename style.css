@@ -25,3 +25,16 @@ body {
 .list {
     background-color: white;
 }
+
+.link {
+    color: blue;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: red;
+}
+
+img {
+    margin: 10px;
+}
